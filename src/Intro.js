@@ -93,9 +93,11 @@ class Intro extends Component {
                   </div>
                 </div>
                 <div style={{ fontSize: 24, paddingTop: 16, color: '#222' }}>
-                  Find these slides at:{' '}
+                  Find slides and links at:{' '}
                   <div style={{ color: '#37d' }}>
-                    https://haaga-helia-intro.surge.sh
+                    <a href="https://haaga-helia.surge.sh">
+                      https://haaga-helia.surge.sh
+                    </a>
                   </div>
                 </div>
               </CardContent>
