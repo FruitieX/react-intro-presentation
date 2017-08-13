@@ -1,5 +1,5 @@
 {
-  "name": "redux-presentation",
+  "name": "react-intro-presentation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "react-scripts build && surge -d haaga-helia-redux.surge.sh build",
+    "deploy": "react-scripts build && surge -d haaga-helia-intro.surge.sh build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
