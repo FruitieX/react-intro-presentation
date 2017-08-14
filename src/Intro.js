@@ -104,7 +104,7 @@ class Intro extends Component {
             </Card>
           </center>
         </Step>
-        <Step id="agenda-react" x={1100} y={685} z={1000}>
+        <Step id="agenda-react" x={1100} y={700} z={1000}>
           <Card>
             <CardContent>
               <div style={{ textAlign: 'center' }} height={100}>
@@ -118,7 +118,10 @@ class Intro extends Component {
                 <li>Background, comparison to other frameworks</li>
                 <li>JSX syntax</li>
                 <li>
-                  <b>Excercise: </b>Environment setup, implementing a counter
+                  <b>Exercise: </b>Environment setup
+                </li>
+                <li>
+                  <b>Exercise: </b>Implementing a counter
                 </li>
               </ul>
               <h4>Tuesday (Lecture 2)</h4>
@@ -130,7 +133,7 @@ class Intro extends Component {
                   <li>Lifecycle methods</li>
                 </ul>
                 <li>
-                  <b>Excercise: </b>Implementing multiple counters using React
+                  <b>Exercise: </b>Implementing multiple counters using React
                   components
                 </li>
               </ul>
@@ -155,7 +158,7 @@ class Intro extends Component {
                 <li>Navigation with React Navigation</li>
                 <li>Basic debugging</li>
                 <li>
-                  <b>Excercise: </b>Prototyping an app complete with navigation,
+                  <b>Exercise: </b>Prototyping an app complete with navigation,
                   components
                 </li>
               </ul>
@@ -167,8 +170,7 @@ class Intro extends Component {
                 <li>Handling text input</li>
                 <li>Network requests</li>
                 <li>
-                  <b>Excercise: </b>Making requests to an API, displaying
-                  results
+                  <b>Exercise: </b>Making requests to an API, displaying results
                 </li>
               </ul>
             </CardContent>
@@ -216,7 +218,7 @@ class Intro extends Component {
                 </li>
                 <li>Debugging experience</li>
                 <li>
-                  <b>Excercise: </b>Simple Redux use-case
+                  <b>Exercise: </b>Simple Redux use-case
                 </li>
                 <li>Extra: Persisting store state to disk</li>
               </ul>
